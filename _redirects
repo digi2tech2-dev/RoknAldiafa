@@ -1,0 +1,5 @@
+/api/reviews /.netlify/functions/reviews 200
+/assets/royal-tent-events-saudia-arabia.webp /assets/royal-tent-events-saudi-arabia.webp 301
+/royal-tent-events-saudia-arabia.webp /assets/royal-tent-events-saudi-arabia.webp 301
+/ac-rental /ac.html 200
+/ac-rental/ /ac.html 200

@@ -1,0 +1,29 @@
+/*
+  X-Content-Type-Options: nosniff
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/sitemap.xml
+  Cache-Control: public, max-age=0, must-revalidate
+
+/robots.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/اعمالنا/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/تكييفات/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/index.min.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/index.min.js
+  Cache-Control: public, max-age=31536000, immutable
